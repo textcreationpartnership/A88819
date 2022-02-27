@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some pitty on the poor: or, A way how poor people may be supplied with labour and relief, without begging particularly intended for the town of Marlbrough in the county of Wilts, which occasioned another short form concerning the three nations of England, Scotland, and Ireland, with an appeal to the Parliament to encourage the work.</title>
+            <author>Lawrence, Thomas, 1645?-1714.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88819</idno>
+            <idno type="STC">Wing L687A</idno>
+            <idno type="STC">ESTC R226680</idno>
+            <idno type="EEBO-CITATION">99896358</idno>
+            <idno type="PROQUEST">99896358</idno>
+            <idno type="VID">154249</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88819)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154249)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2407:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some pitty on the poor: or, A way how poor people may be supplied with labour and relief, without begging particularly intended for the town of Marlbrough in the county of Wilts, which occasioned another short form concerning the three nations of England, Scotland, and Ireland, with an appeal to the Parliament to encourage the work.</title>
+                  <author>Lawrence, Thomas, 1645?-1714.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1675?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing to Thomas Lawrence.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint conjectured by Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Begging --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:154249:1"/>
+            <head>
+               <hi>Some Pitty on the Poor:</hi> OR, A way how poor people may be ſupplied with labour and relief, without beg<g ref="char:EOLhyphen"/>ging; particularly intended for the Town of <hi>Marlbrough</hi> in the County of <hi>Wilts,</hi> which occaſioned another ſhort form concerning the three Nati<g ref="char:EOLhyphen"/>ons of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> with an appeal to the Par<g ref="char:EOLhyphen"/>liament to encourage the work.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Dan. 4.27.</hi>
+                  </bibl> Break off thy ſins by righteouſneſs, and thine iniquities by ſhewing mercy to the poor.</q>
+               <q>
+                  <bibl>
+                     <hi>Pſal. 41.1, 2.</hi>
+                  </bibl> Bleſſed is the man that conſidereth the poor, the Lord will deliver him in the time of trouble, the Lord will keep him and preſerve him alive, he ſhall be bleſſed upon earth, and thou wilt not deliver him into the will of his enemies.</q>
+               <q>
+                  <bibl>
+                     <hi>Phil. 4.8, 9.</hi>
+                  </bibl> Whatſover things are true, whatſoever things are honeſt, whatſo<g ref="char:EOLhyphen"/>ever things are juſt, whatſoever things are pure, whatſoever things are lovely, whatſoever things are of good report, think on theſe things: thoſe things do, and the God of peace ſhall be with you.</q>
+            </epigraph>
+            <div type="letter">
+               <head>To the Inhabitants of <hi>Marlbrough</hi> in the County of <hi>Wilts,</hi> and Countrey near adjoyning.</head>
+               <p>FRiends and Neighbours, it is more ſhame to be negligent and idle, then to be poor, but to ſtrive who ſhall be firſt in a good work is honourable: There is ſome reaſon why this particular way of ſhew<g ref="char:EOLhyphen"/>ing mercy towards the poor ſhould be firſt in practice, where it was firſt in queſtion, though the number of poor be many, the work great, and means ſmall, yet nothing is hard to God: when his hand hath done it where it is ſo hard, it may encourage others; where it is more eaſie, none can object the charge, becauſe it will be leſs, nor injuſtice, becauſe it is more equal, and for the pains, what can be done without: if the work be hard, it is not im<g ref="char:EOLhyphen"/>poſſible, for all things are poſſible to God, and to him that believeth: Let us go on with courage, diligence and conſtancy for the glory of God, the good of the poor, and the peace of our conſciences, for it is our duty, <hi>T.L.</hi>
+               </p>
+               <p>
+                  <hi>T: L.</hi> his propoſitions to the inhabitants of <hi>Malbrough,</hi> he having formerly im<g ref="char:EOLhyphen"/>ployed the poor of that town 24 years, hath ſeen much the ground of their miſe<g ref="char:EOLhyphen"/>ry, &amp; ſomething of the remedy, &amp; being deeply ſenſible of their ſad condition, and greatneſs and daily encreaſe of their numbers that beg, their manner of living, and not like to be otherwiſe, in diſcharge of his conſcience towards God and man, doth offer as followeth, That if he ſhall receive an order and authority from the Governoure of <hi>Marlbrough,</hi> with conſent of the Inhabitants, and aſ<g ref="char:EOLhyphen"/>ſiſtance of the keeper of the workhouſe, with whom <hi>Tho: Laurence,</hi> or whom
+<pb n="2" facs="tcp:154249:2"/> he ſhall appoint, may uſe means the poor may be provided for: That there be not a beggar in the ſtreets. As firſt to take notice how many houſholders, ſo<g ref="char:EOLhyphen"/>journers and inmates there be in <hi>Marlbrough,</hi> and of what calling. 2. How many perſons beg about the ſtreets and Inns. 3. How many of them are able to work. 4. How many old, impotent, and young children. 5. How many work to the Workhouſe. 6. How many labourers that are not in conſtant work, and ſettle them as much as may be. 7. To take notice out of the former numbers, of ſuch as are fit to work, and of them that ſhould bring them into work ac<g ref="char:EOLhyphen"/>cording to order. 8. To enquire in any houſe, whether any beg, how many per<g ref="char:EOLhyphen"/>ſons in that family, and how employed 9. To meet the Officers that collect and bring in the money, and the keeper of the workhouſe, every ſixt day at the middle of the day, to ſet in order the work. 10. To uſe ſome diligence about ſettling a poor mans office, firſt where labourers and handicrafts men that want work, and ſuch as want workmen may enquire. 2. Where ſome boys that would or are fit to be Apprentices, may be informed of maſters, and ſome that wants ſervants in City or Countrey, or whom they have ſpoken to may en<g ref="char:EOLhyphen"/>quire. 3 Where maids that would or a fit to be Apprentices or Covenant ſer<g ref="char:EOLhyphen"/>vants, or ſome as want ſuch, may enquire, but none to be put to ſervice until they be firſt taught to knit, ſpin, ſow, learn ſome trade or way of livelihood, leſt in after times they can do nothing for themſelves. 4. Where any poor people that may have work, and are known to live idly, may be informed of, and courſe taken with. 5. Where tradeſmen who at ſome times have more work for cuſtomers then they can do, and others of that trade want, way be in<g ref="char:EOLhyphen"/>formed and adviſed to help one another, and ſo improve their trades, and not encreaſe poor families. 6. Where any in diſtreſs, having juſt cauſe to com<g ref="char:EOLhyphen"/>plain, may make their ſeveral conditions known, that courſe may be taken to ſupply their wants, as money can be had. 7. Where any well affected may in<g ref="char:EOLhyphen"/>form of work, or adviſe in whatſoever may be for a general good, that poor people having work conſtant, may yearn more at a lower rate, then they that work onely three or four days in a week at a higher rate; and until this work be effected, <hi>Tho: Laurence</hi> doth agree to act all on his part at his own charge, if the Governours and inhabitants of <hi>Malbrough</hi> ſhall on their part conſent and agree firſt, that all that have paid one peny a week adde one half peny a week more, and all others accordingly to help children that are to be taught, and to diſpoſe of them when they can work well. 2. To require the keeper of the workhouſe that he provide wool to ſet on work from time to time ſixty perſons of the Town, if more want work, then they to have work provided alſo, and the keeper of the workhouſe to be paid for that as can be agreed, and to pay wages as others pay for the like work, being as well done, and to have money allowed him to buy working inſtruments, to teach ſuch to work at the work<g ref="char:EOLhyphen"/>houſe who cannot work non have friends to teach them, and every one to pay for their tools and teaching, and when they can work well, to be diſpo<g ref="char:EOLhyphen"/>ſed of, and others put in their places. 3. That the Governours appoint the Wardſman, or ſome other Officer, to ſend in every morning ſuch as are appointed that none fail of their days work, and to allow as formerly, all ſuch to take alms as are in neceſſity, until ſome good courſe can be taken for their relief,
+<pb n="3" facs="tcp:154249:2"/> and whatſoever things or perſons are not rated being rateable, be equally rated and paid to the poor, and that all extraordinary charges, as by peſtilence, or the like, be not paid out of the collection money; and that there be a poor mans box in the Office, to put in what money any one ſhall freely give for his informati<g ref="char:EOLhyphen"/>on and advice, or any other charitable perſon for the uſe of the poor. 4. That the Officers that collect and bring in the money, the keeper of the workhouſe, and <hi>Tho. Laurence,</hi> meet at the poor mans Office every ſixt day, at the mid<g ref="char:EOLhyphen"/>dle of the day, to diſpoſe of the money collected for children, and ſuch as juſtly complain of want, and to ſettle labourers and handicrafts men as much as may be in conſtant work, and the old and impotent in moſt convenient places, and that the Officers of every ward deſire work of them that have it, for la<g ref="char:EOLhyphen"/>bourers and handicrafts men, being required by them that want work, and that there be a proviſion of firing at the beſt rate in ſeveral places of the Town, for poor people to have at hand for their money as they have occaſion. 5. If any one concerned in this Covenant, through any occaſion whatſoever, ſhall fail of his duty for the publike good, then <hi>Tho. Laurence</hi> is to chuſe another in his place, or act himſelf by the ſame power. 6. That not onely Governors, but all inhabitants alſo joyn in one to advance the publike good, by ſetting aſide work for times of want, as wood cleaving, threſhing, hedging, gardening, digging, weeding, gathering hearbs, or any work, and inform at the Office what work they have, and how long they can ſtay. 7. Not onely the rich, but poor alſo be provident to get work for themſelves, and not live idly and diſorderly, cauſing their own miſery, but labour and eat their own bread, this is that the Apoſtle warned, 1 <hi>Theſſ.</hi> 3.10. <hi>If any man would not work, he ſhould not eat: The drunkard and the glutton ſhall come to poverty, and drouſineſs ſhall cloath a man with rags, Prov.</hi> 23. <hi>and ſtripes are for the back of fools, Prov.</hi> 19, 20. <hi>and a deceitful perſon ſhall be famiſhed, Prov.</hi> 19.15. 8. If not onely the Town, but the Countrey neer adjoyning ſhall ſay, they ſuffer much by the poor of <hi>Marlbrough,</hi> if they will contribute, then their doors, woods, hedges, and other goods may be more free: and if any perſon ſhall be found to have ſtollen any thing from them that contribute, that then reſtitution be made by them that ſtole it, according to the Law; but if the Countrey ſhall take no notice, neither may the Town. 9. When the ſtreets are cleanſed of all beggars that are able to work, then they who paid three half pence a week, pay one half peny a week more, and all others accordingly, to maintain the old, impotent, and young children, theſe are ſome pointings, but the knowledge is in practice 10. That all houſholders in <hi>Marlbrough</hi> meet at the Town Hall to give their conſent. If ſome will ſay. They will give their charity themſelves; ſo they may, for this publike collection is paid, not given, neither doth this hinder any to give money, food, raiment, or ſend gifts to the poor, according to Scripture. 11. That whatſoever things are juſt, and for the good of the Town, though not mentioned in this form, be performed by every particular inhabitant. 12. That ſix of the Governours, and ſix of the inhabitants in the behalf of the whole Town, ſet their hands and ſeals to this agreement, and that this work begin at the end of harveſt, which is the beſt time, and until that time it may be conſidered of, and then if the Governours and inhabitants of
+<pb n="4" facs="tcp:154249:3"/> 
+                  <hi>Marlbrough</hi> will enter into this Covenant, <hi>Tho. Laurence</hi> doth agree to act all on his part till the work be effected, at his own charge. At the firſt he judged it might deſerve 100 <hi>l.</hi> for his pains and charge, but his conſcience bearing him witneſs, that gain was not the mover, and fearing the Inhabitants would ſtumble at the ſame, <hi>T. L.</hi> is free to act without money. 13. After conſide<g ref="char:EOLhyphen"/>ration of the numbers at preſent charge, and there may be many more, be<g ref="char:EOLhyphen"/>ſides others in danger, and the moſt are old, impotent, and families of chil<g ref="char:EOLhyphen"/>dren that are very ſmall, and of them that are well able to work, but a very little number: If therefore the Governors and inhabitants of <hi>Marlbrough</hi> ſhall conſent and agree, that after tryal the former rates are found too little to main<g ref="char:EOLhyphen"/>tain the poor, that then every one who pay one peny a week, pay one far<g ref="char:EOLhyphen"/>thing a week more, and all others accordingly, and when the poor can be maintained with leſs, and children are grown, the Town may by conſent take their rates lower.</p>
+               <q>In tender heart love to my neighbours and Countreymen I wrote this ſhort form, the ſame love in truth reaching to the Creation. I have written another, and directed it to the Parliament, to whom theſe three Nations are to be ſubject in all juſt commands.</q>
+            </div>
+            <div type="letter">
+               <head>To the Parliament.</head>
+               <p>THat there may not be a beggar in <hi>England, Scotland,</hi> nor <hi>Ireland,</hi> it is deſired, That you would give order that every Pariſh under your Go<g ref="char:EOLhyphen"/>vernment provide two able men fearing God, with whom they may agree to act as followeth; (in caſe none ſhall undertake it freely) Firſt to take notice how many families there be in that Pariſh. 2. How many beg. 3, How ma<g ref="char:EOLhyphen"/>ny old, impotent, and young children. 4. To take notice how many are able to work, and of ſuch as ſhould ſet them to work according to order. 5. To meet the Officers that collect and bring in the money, one day in every week at the time and place appointed, to ſet in order things concerning the poor.</p>
+               <p n="6">6. To ſettle a poor mans Office, to ſet down firſt where labourers and handi<g ref="char:EOLhyphen"/>crafts men that want work, and ſuch as want workmen, may enquire. 2. Where boys that would or are fit to go Apprentices, may be informed of Maſters, or ſuch as want ſervants in City or Countrey, or whom they have ſpoken to may enquire 3. Where maids that would or are fit to go Apprentices or Co<g ref="char:EOLhyphen"/>venant ſervants, or ſome that want ſuch may enquire, but none to be put to ſervice, untill they be firſt taught to knit, ſpin, ſow, learn ſome trade, or way of livelihood, leſt in aftertimes they can do nothing for themſelves. 4. Where any poor people that may have work, and are known to live idly, may be informed of, and courſe taken with. 5. Where any poor that are in diſtreſs,
+<pb n="5" facs="tcp:154249:3"/> having juſt cauſe to complain,, may make their conditions known, that courſe may be taken to ſupply their wants, as money can be had. Sixthly, Where any well-affected may inform and adviſe for the publike good, that poor peo<g ref="char:EOLhyphen"/>ple having conſtant work, may earn more at a lower rate, then thoſe that work only three or four days in a week at a higher rate: And as the men entruſted are to act as aforeſaid, ſo the Officers and Inhabitants of the Pariſh to act as fol<g ref="char:EOLhyphen"/>loweth.</p>
+               <p>Firſt, To raiſe a ſtock or gather money to provide work for them that are able to work, and to ſupply their old, impotent, and young children by collecti<g ref="char:EOLhyphen"/>on, and alſo help thoſe whoſe work will not maintain them, though the money may trouble ſome, yet the charge may be much leſs, and more equal then giving victuals; beſides, conſider the ill breeding, wicked life, and bad end that many come unto by idleneſs. 2. To take the beſt courſe they can for the manner how to ſet them to work on ſilk, wool, hair, cotton, hemp, flax tow, wick, or any other matter; if there be 20 perſons in a village that live by begging, being able to work, then the Pariſh to agree with ſome clothiers, Throwſter, ſtuf, or ſtocking-maker for 5 pound a year; or as the thing is or can be agreed, to furniſh the 20 perſons with as much work conſtantly as they can do, and pay as others pay for the like work being as well done; ſo in great Towns or Places of clothing, one Clothier may take 20. another 20 as before: ſo in great Cities where is much trade on ſilks, wool, hair, cotton winding, weaving, button making, or the like, every Pariſh or Diviſion agree with ſome Tradeſman to provide work for 20, as aforeſaid, and ſo may riſe to hundreds or thouſands by the ſame rule; ſo the poor may have work to do, Tradeſmen their work done, and money alſo; ſo in places where poor are encreaſed, and have no Trade; or where ſome great Trade is wholly decayed, ſome other is to be ſought for with diſcretion; but where Trade at preſent is dead, there ſome perſons only to be ſet to other work, or put to other places for a time, and not hanker after maſters for work, when the Trade is ſo dead, and hurt both. 3. That all Officers in the Pariſh aſſiſt the men entruſted, as need requires, and they that collect and bring in the money, and the men entruſted meet at the poor man's Office one day in every week at the time appointed to ſettle the work, to diſpoſe the collection money to chil<g ref="char:EOLhyphen"/>dren that learn to work, and ſuch as are in want, to ſettle labourers and handy<g ref="char:EOLhyphen"/>craft men in conſtant work, and old and impotent in convenient places; and whatſoever they can do for the good of the Pariſh, though not mentioned in this form. 4 That not only Officers, but all Inhabitants joyn in one to ad<g ref="char:EOLhyphen"/>vance the publique good, by ſetting aſide work for days and times of want, and inform at the Office what work they have, and how long they can ſtay. 5. Not only rich, but the poor alſo in every pariſh be provident to get work for them<g ref="char:EOLhyphen"/>ſelves, and not live idle and diſorderly, cauſing their own miſery, but labour, and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t their own bread; this is that the Apoſtle warned 1 <hi>Theſſ.</hi> 3.10. <hi>If any would not work, he ſhould not eat: The drunkard and the glutton ſhall be poor, and drowſineſs ſhall cloath a man with rags, Prov.</hi> 23.21. <hi>and ſtripes are for the back of fools, Prov.</hi> 19.29. <hi>and a deceitful perſon ſhall be affamiſhed, Prov.</hi> 19.15 6. If the country alſo ſhall contribute to populous Towns, then the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r
+<pb n="6" facs="tcp:154249:4"/> doors, woods, hedges, and other goods may be freed from them, and then pub<g ref="char:EOLhyphen"/>like notice be given that none of the Town enter upon the ground of any per<g ref="char:EOLhyphen"/>ſon or pariſh that contribute, for they have given ſo much by the year, and who<g ref="char:EOLhyphen"/>ſoever ſhall be found to have ſtolen any thing from them that contribute, are to make reſtitution according to the Law; Gods law was, that whom the Judge ſhould condemn, was to pay to his neighbour double, or fourfold. 7. That all houſholders in every pariſh meet in ſome convenient place where this form may be read, and the whole Pariſh with the men in truſt enter into covenant to per<g ref="char:EOLhyphen"/>form all that is herein, and all elſe that may be for the general good, and all the Officers of the pariſh, and as many more of the inhabitants in the be half of the whole pariſh, ſet their hands and ſeals to this Agreement. Theſe are ſome point<g ref="char:EOLhyphen"/>ings, but the knowledge is in the practiſe: Now that words may come into pra<g ref="char:EOLhyphen"/>ctiſe for the publike good, it is deſired that the Parliament would give order that this ſhort form be read by the Miniſter of every Pariſh under their Gover<g ref="char:EOLhyphen"/>ment (it may be done as eaſie as to proclaim a Faſt) it will prevent idleneſs, leud<g ref="char:EOLhyphen"/>neſs, drunkenneſs, theft, <hi>&amp;c.</hi> and ſo break the bands of wickedneſs, and let the oppreſſed go free, the true Faſt which God hath choſen, proclaim it abroad, it is honourable) and then to be delivered the Officers for the poor to take notice how many beg in every pariſh, what courſe they have taken to ſupply them with labour and relief, and to give in their accompts to any one who is appoint<g ref="char:EOLhyphen"/>ed Juſtice of the Peace for the County, one moneth before the Quarter Seſſi<g ref="char:EOLhyphen"/>ons, and the Juſtices of every County to peruſe the accompts, and give them in to the Judge of the Seſſions to be conſidered of as is need; if any Officer fail of his duty, or any of the Pariſh ſhall oppoſe, or not aſſiſt, that then both Officers and others ſo failing, pay at every Seſſions to the uſe of the poor, double their rate for their neglect: and if any have juſt cauſe to complain, he may appeal to the Officers of the poor, or to the Juſtices of the County, or to the Judge of the Seſſions, or to the higher powers, to which every ſoul is to be ſubject.</p>
+               <p>
+                  <hi>And what ſhall be laid upon Superiours if they ſhall neglect the truſt com<g ref="char:EOLhyphen"/>mitted to them?</hi>
+               </p>
+               <p>When the deceit of ſuch is laid open before the higher powers, I leave to their judgement, knowing that all, both high and low muſt give an accompt to God; nor do I deſire to burden any mans conſcience or eſtate, but to eaſe them rather, and to ſtir up the mindes of wiſe men to act for their own profit, to compleat by practiſe and experience what is briefly pointed at in words: juſt men in truſt a juſt account, and a penalty upon the unjuſt juſtly executed, are as ſinnews to the body of this work; but if there be no man in truſt, no account nor penalty, the work will fail, Gods judgements have been long upon theſe Nations, great differences and diſcontents have been ſeen, great bloodſhed and burthens have been felt, great counſels and undertakings have failed, who knoweth but it hath been much for the cauſe of the poor, there have been of<g ref="char:EOLhyphen"/>ten faſtings and long prayers; who ſtop their ears at the cry of the poor, ſhall cry themſelves, and not be heard; that there may not be a beggar in <hi>Iſrael:</hi> no beggar in <hi>England, Scotland,</hi> or <hi>Ireland,</hi> is the deſire and hope of one, who hath no intentions of evil in any, but wiſh the good of all.</p>
+               <closer>
+                  <signed>T. L.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="to_the_reader">
+            <pb n="7" facs="tcp:154249:4"/>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Have not written to hinder others, but to ſtir them up, who may know more va<g ref="char:EOLhyphen"/>riety of places, trading, and commerce: I have conſidered of Cities, Towns, and Villages, but no place have I found where ſome part of this Platform may not be ſutable with little alteration; great Cities may be divided into convenient parts, that the poor, impotent, and labourers that live in Out-ſtreets, and Alleys, may be ſupplyed with labour and relief from the rich Tradeſmen, and Merchants, having ſeveral Offices of Information, where poor people may make their ſeveral conditions known, that means may be uſed for their relief, and not periſh, as many have done; to ſupply the poor wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h money, and not with work and government, may bring the rich to poverty, and the poor to idleneſs: none can ſerve God themſelves, nor their generation better then in ſome honeſt employment.</p>
+            <p>Object. 1. <hi>Where ſhall work be had for all beggars, ſeeing they that would work haue not enough?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Is no more work to be found? Is all work improved? May not ſome planting of Hemp, and Flax, and ſpinning of Linnen be when Woollen fails for a time? Muſt we keep other Nations in work on Hemp and Flax, and our Wool alſo? What makes Cloth and Wool a Drug in <hi>England?</hi> And is not much work done by Horſe-mills, Water mills, Frames, Engines, <hi>&amp;c.</hi> that might be done with hands, and one rich man begger others of that trade, where one will do as much as five or ten, and hand-works alſo deceitfully done with half work, the goods hurt, the buyer deceived.</p>
+            <p>
+               <hi>Anſw.</hi> 2. If man cannot finde a way, God can: <hi>Iſrael</hi> at the Sea could not finde their way, yet God made one; <hi>Hagar</hi> could not finde water for the childe, yet a Well was near; in every City, Town, and Village there is work enough, and money enough to be found, but neglect and ſelfiſhneſs hath blind<g ref="char:EOLhyphen"/>ed the eye, that men grope and cannot ſee the means though preſented to them.</p>
+            <p>Object. 2. <hi>The work is great, and had need be ſet forth more large and plain.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This ſhort way will ſet many men a talking, and many ſmall ſticks may make a great fire.</p>
+            <p>Object. 3. <hi>There are many Laws and many Officers concerning the poor al<g ref="char:EOLhyphen"/>ready.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> But where is the execution? The proverb is fulfilled, <hi>That which is every bodies buſineſs, is no bodies buſineſs:</hi> But where is the man in truſt that doth not fail to order the poor, the Tradeſmen engaged to finde them work, the pe<g ref="char:EOLhyphen"/>nalty and juſt execution if any fail, or higher Powers to redreſs all juſt com<g ref="char:EOLhyphen"/>plaints?</p>
+            <p>Object. 4. <hi>Bad people will ſpoil mens work that are engaged.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> The Yarn may be as good as the Wool or Flax; pay juſtly what they earn, abate for what they ſpoil, and they will mend; but whoſoever bates more, they are the bad people.</p>
+         </div>
+         <div type="postscript">
+            <pb n="8" facs="tcp:154249:5"/>
+            <head>POSTSCRIPT.</head>
+            <p>IF any man would know how ſuch a great work may be effected, that none periſh, that none want food convenient, no beggar in <hi>Iſrael,</hi> then every particular ſet us upon the practiſe, that what as yet layeth hid, in after times may be manifeſt, good works are in leaſt eſteem with bad men; honeſt undertakings may finde more neglect and oppoſition then encouragement; but what is of God ſhall ſtand over all oppoſition and oppoſers, who are to be in this the Lord's day firſt diſcovered, and then confounded; Gods ways are not like mans; he doth great things by ſmall means for his own glory, that vain man might not boaſt; what entertainment truth hath with heathen; the like I have received in this undertaking, queſtioning que<g ref="char:EOLhyphen"/>ſtioning and talk themſelves out of the thing; one objecteth one thing, another another thing, others fling at all, and ſay, it is impoſſible, Powers will not do, Pariſhes will not do, it will never be; like the ten Spies, raiſe an ill report; ſons of <hi>Anak</hi> are there, Gyants are there, what ſhall we do with our little ones? But the little ones went into the good land, but their carcaſſes fell in the Wilderneſs.</p>
+         </div>
+         <trailer>The End.</trailer>
+      </body>
+   </text>
+</TEI>
